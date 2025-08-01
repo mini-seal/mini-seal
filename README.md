@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alisen! 
 
-🎓 Computer Science Student @ St. John’s University
+🎓 Computer Science Student at St. John’s University
 
 🔭 I'm an aspiring computer scientist with a growing passion for artificial intelligence, machine learning, game design, and cybersecurity. 
 
